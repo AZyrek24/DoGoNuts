@@ -1,14 +1,14 @@
-# Create React Express App
+# GoDonuts
 
-## About This Boilerplate
+## The Perfectly Curated Box of Donuts
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
-
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
+How can a group of employees efficiently put in their donut choices for an office donut run? 
+![Go-Donuts logo](/client/build/assets/images/logo.png?raw=true "Go-Donuts")
 
 ## Starting the app locally
 
 Start by installing front and backend dependencies. While in this directory, run the following command:
+
 
 ```
 yarn install
